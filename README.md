@@ -9,4 +9,5 @@ Keras is used to train a Neural Network model, and Keras' functional API is used
 
 **Running Tests**
 >python3 ml_server.py
+
 >Streamlit run app.py
