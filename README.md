@@ -15,4 +15,10 @@ Keras is used to train a Neural Network model, and Keras' functional API is used
 
 
 ## Outputs:
+![Screenshot from 2020-07-01 11-47-59](https://user-images.githubusercontent.com/55942093/86211284-c4872800-bb93-11ea-9322-8638f89ef2c8.png)
 
+![Screenshot from 2020-07-01 11-48-17](https://user-images.githubusercontent.com/55942093/86211348-dec10600-bb93-11ea-9575-20adac5bad22.png)
+
+![Screenshot from 2020-07-01 11-48-44](https://user-images.githubusercontent.com/55942093/86211352-e2ed2380-bb93-11ea-97ba-5ddf523ddf3d.png)
+
+![Screenshot from 2020-07-01 11-49-07](https://user-images.githubusercontent.com/55942093/86211358-e4b6e700-bb93-11ea-8e02-bfec37afe52c.png)
