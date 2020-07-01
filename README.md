@@ -14,7 +14,7 @@ Keras is used to train a Neural Network model, and Keras' functional API is used
 >streamlit run app.py
 
 
-## Outputs:
+## Output:
 ![Screenshot from 2020-07-01 11-47-59](https://user-images.githubusercontent.com/55942093/86211284-c4872800-bb93-11ea-9322-8638f89ef2c8.png)
 
 ![Screenshot from 2020-07-01 11-48-17](https://user-images.githubusercontent.com/55942093/86211348-dec10600-bb93-11ea-9575-20adac5bad22.png)
