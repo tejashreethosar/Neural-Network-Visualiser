@@ -1,3 +1,4 @@
+
 # Neural-Network-Visualiser
 
 ## Description:
@@ -11,3 +12,11 @@ Keras is used to train a Neural Network model, and Keras' functional API is used
 >python3 ml_server.py
 
 >streamlit run app.py
+
+
+## Outputs:
+
+![1](https://picasaweb.google.com/109447675467837236886/6844393263713238017#6844393264374845266 "1")
+![2](https://picasaweb.google.com/109447675467837236886/6844393473713913713#6844393476545526338 "2")
+![3](https://picasaweb.google.com/109447675467837236886/6844393604958389393#6844393605257216898 "3")
+![4](https://picasaweb.google.com/109447675467837236886/6844393721770598657#6844393720569965810 "4")
